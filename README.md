@@ -1,53 +1,21 @@
-<!----------------------------------- Heading Section ------------------------------------>
-<h1 align="center">
-    Hi
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-   Shivani Thakur
-    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
-</h1>
+# 💫 About Me:
+  Hii i'm Shivani Thakur !<br>🔭 I’m currently working on learning new technical skills<br>🌱 I’m currently learning : MongoDB and AWS<br>💬 Ask me about : Linux, OS, Sql, HTML, CSS, JavaScript<br>⭐Reach me at : shivanivijaythakur@gmail.com
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivanithakur22) 
 
-<!----------------------------------- About Section ------------------------------------>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shivanithakur36&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shivanithakur36&theme=maroongold&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanithakur36&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3>
-    <i>- I'm a Tech Suppport Engineeer skilled in providing support and also skilled in Tech Stack like JavaScript, HTML, CSS, LINUX, SQL, OS and networking</i>
-</h3>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shivanithakur36&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
-<!----------------------------------- Profile View Section ------------------------------------>
+---
+[![](https://visitcount.itsvg.in/api?id=shivanithakur36&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-<a href="https://www.linkedin.com/in/shivani-thakur-03930723b/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shivani's LINKDIN"/>
-    </a>
-    <a href="https://twitter.com/shaurya611">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Shivani_twitter"/>
-    </a>
-    <a title="shivanivijaythakur@gmail.com" href="mailto:shivanivijaythakur@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="shivanivijaythakur@gmail.com"/>
-    </a>
-</p>
-<br>
-<!----------------------------------- GitHub Stats Section ------------------------------------>
-<h2 align="center"><i>My GitHub Stats</i></h2>
-<p align="center"></p>
-<div align="center">
-  <a href="https://github.com/shivanithakur36/github-readme-streak-stats">
-    <img
-      title="🔥 Get streak stats for your profile at git.io/streak-stats"
-      alt="shivanithakur36 streak"
-      src="https://streak-stats.demolab.com?user=shivanithakur36&theme=androidd-dark_border=true&border_radius=5&dates=FFFFFF&background=0071E3&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats"
-    />
-  </a>
-</div>
-<br>
-<!----------------------------------- Tech Languages ------------------------------------>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanithakur36&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="shivanithakur36" /></p>
-<p align="center">
-</p>
-<br>
-<!----------------------------------- Git Status ------------------------------------>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanithakur36&show_icons=true&locale=en&&theme=highcontrast" alt="shivanithakur36" /></p>
-<br>
-<p align="center"><a href="https://github-profile-trophy.vercel.app/?username=shivanithakur36&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=shivanithakur36&theme=algolia" alt="shivanithakur36" /></a></p>
-<br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,5 +1,5 @@
 # 💫 About Me:
-  Hii i'm Shivani Thakur !<br>🔭 I’m currently working on learning new technical skills<br>🌱 I’m currently learning : MongoDB and AWS<br>💬 Ask me about : Linux, OS, Sql, HTML, CSS, JavaScript<br>⭐Reach me at : shivanivijaythakur@gmail.com
+  Hii i'm Shivani Thakur !<br>🔭 I’m currently working on learning new technical skills<br>🌱 I’m currently learning : Networking and SQL<br>💬 Ask me about : Linux, OS, Sql, HTML, CSS, JavaScript<br>⭐Reach me at : shivanivijaythakur@gmail.com
 
 
 ## 🌐 Socials:
